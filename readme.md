@@ -1,121 +1,90 @@
+<!-- Waving GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZkZzhrYjZpZ3F0dmY1emNqdHZ0eGFyMmVtM3d6Z2Q2bHl6eGpsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5hpueFgs/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkZzhrYjZpZ3F0dmY1emNqdHZ0eGFyMmVtM3d6Z2Q2bHl6eGpsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5hpueFgs/giphy.gif" width="100%"/>
 </div>
 
-<h1 align="center">Hey there, I'm [Your Name] 👋</h1>
-
-<h3 align="center">A passionate developer from India 🇮🇳</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" />
-</p>
-
----
-
-<p align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2eGRvNGV5a2E4eTR6Ynl3Z2M2czV4aG1rbzY4Nm52b2Uwemc1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0l53sASnsB/giphy.gif" alt="about-me" width="30" /> <b>About Me</b></p>
-
-```
-- 🔭 I’m currently working on a Minecraft Server and a Discord Bot
-- 🌱 I’m currently learning more about web development and creating content for YouTube
-- 👯 I’m looking to collaborate on open-source projects
-- 🤔 I’m looking for help with expanding my knowledge in Python and Node.js
-- 💬 Ask me about anything related to Minecraft, Discord, or web development
-- 📫 How to reach me: [your-email@example.com]
-- 😄 Pronouns: He/Him
-```
-
----
-
-<p align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY3d3g0bmN6Nnp3a2xoNGRiaHk5bDFtNXN6Mmo1cGtxNW91bzZ2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="skills" width="30" /> <b>My Skills</b></p>
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-</p>
-
----
-
-<p align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RocXFpNnNqMWo3Y2N0M2ZqdG42bGNvY3R4cnFhcjZncTVuaW1rZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="projects" width="30" /> <b>My Projects</b></p>
-
-<table align="center">
-<tr>
-  <td align="center">
-    <a href="[LINK_TO_YOUR_PROJECT_1]">
-      <img src="[IMAGE_URL_FOR_PROJECT_1]" width="200px;" alt="Project 1"/>
-      <br />
-      <sub><b>Project 1 Name</b></sub>
-    </a>
-    <br />
-    <sub>Minecraft Server</sub>
-  </td>
-  <td align="center">
-    <a href="[LINK_TO_YOUR_PROJECT_2]">
-      <img src="[IMAGE_URL_FOR_PROJECT_2]" width="200px;" alt="Project 2"/>
-      <br />
-      <sub><b>Project 2 Name</b></sub>
-    </a>
-    <br />
-    <sub>Discord Bot</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center">
-    <a href="[LINK_TO_YOUR_PROJECT_3]">
-      <img src="[IMAGE_URL_FOR_PROJECT_3]" width="200px;" alt="Project 3"/>
-      <br />
-      <sub><b>Project 3 Name</b></sub>
-    </a>
-    <br />
-    <sub>Web Page</sub>
-  </td>
-  <td align="center">
-    <a href="[LINK_TO_YOUR_PROJECT_4]">
-      <img src="[IMAGE_URL_FOR_PROJECT_4]" width="200px;" alt="Project 4"/>
-      <br />
-      <sub><b>Project 4 Name</b></sub>
-    </a>
-    <br />
-    <sub>YouTube Content</sub>
-  </td>
-</tr>
-</table>
-
----
-
-<p align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BlMXM0amxlYW53dGk0c3B4djR3dWIweTJtdDNwYjAwY25mbjN1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEh5Lk3o2c5mY8/giphy.gif" alt="socials" width="30" /> <b>Connect with Me</b></p>
-
-<p align="center">
-<a href="[YOUR_YOUTUBE_LINK]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[YOUR_YOUTUBE_CHANNEL_NAME]" height="30" width="40" /></a>
-<a href="[YOUR_DISCORD_SERVER_INVITE]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="[YOUR_DISCORD_TAG]" height="30" width="40" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en&theme=tokyonight" alt="your-github-username" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="your-github-username" />
-</p>
-
+<!-- Typing Animation Header -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM5ZjdiN2M4MWI4YjdiMTliYjU1ZTI0OWFhNGE1Njg4OGY0YzQ3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Azhaan!+%F0%9F%91%8B;Minecraft+Developer;Discord+Bot+Creator;Web+Developer;YouTuber" alt="Typing SVG" /></a>
 </div>
-```
 
-### How to Use This Template
+<br>
 
-1.  **Create a new repository** on GitHub with the same name as your GitHub username. For example, if your username is `octocat`, create a repository named `octocat`.
-2.  **Create a `README.md` file** in that repository.
-3.  **Copy and paste** the code above into your `README.md` file.
-4.  **Customize the placeholders**:
-    *   Replace `[Your Name]` with your actual name.
-    *   Replace `your-github-username` with your GitHub username in all the image URLs.
-    *   Update the "About Me" section with your details.
-    *   In the "My Projects" section, replace `[LINK_TO_YOUR_PROJECT]` and `[IMAGE_URL_FOR_PROJECT]` with links and images for your projects. You can upload images to your repository and use the links.
-    *   In the "Connect with Me" section, add your social media links.
+<!-- Profile Views Counter -->
+<p align="center">
+  <a href="https://github.com/your-github-username">
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&color=red&style=for-the-badge" alt="Profile Views"/>
+  </a>
+</p>
 
-By following these steps, you'll have an engaging and animated GitHub profile that showcases your skills and projects effectively.
+---
+
+### 👨‍💻 About Me
+
+I'm a passionate developer and content creator from India 🇮🇳, building cool things for the internet. My work revolves around creating engaging experiences for gaming communities and the web.
+
+- 🚀 **Minecraft Server Developer:** I build custom plugins and manage server infrastructure to create unique gameplay.
+- 🤖 **Discord Bot Developer:** I create powerful bots that automate tasks and bring communities together. You can find me on Discord as **azhaan.dev.exe**.
+- 🌐 **Web Developer:** I design and develop responsive and user-friendly websites.
+- 🎥 **YouTube Content Creator:** I make videos about my coding projects, tutorials, and gaming adventures.
+
+- 🌱 I’m currently diving deeper into **Node.js** and **Python** frameworks.
+- 👯 I’m open to collaborating on **open-source projects** related to gaming or web tools.
+- 📫 You can reach out to me at: **[your-email@example.com]**
+
+---
+
+### 🛠️ My Tech Stack
+
+These are the technologies and tools I use to bring my ideas to life:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,nodejs,html,css,javascript,react,mongodb,mysql,git,vscode,docker,figma&theme=dark" />
+  </a>
+p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 My Contribution Graph
+
+This snake animation automatically updates to show my latest GitHub contributions!
+
+<p align="center">
+  <img src="https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+Let's connect and create something amazing together!
+
+<p align="center">
+  <a href="[YOUR_DISCORD_SERVER_INVITE]">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="[YOUR_YOUTUBE_LINK]">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="mailto:[your-email@example.com]">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+<!-- Waving GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkZzhrYjZpZ3F0dmY1emNqdHZ0eGFyMmVtM3d6Z2Q2bHl6eGpsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5hpueFgs/giphy.gif" width="100%"/>
+</div>
