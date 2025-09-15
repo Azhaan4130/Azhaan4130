@@ -55,11 +55,11 @@ Here are the tools and technologies I use to craft my projects:
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBwY2V1ZGF2cDF0b2N2MHE4d3A1bjVmbjFocDdtNm5xemU2bmI0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> My GitHub Stats & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?Azhaan4130&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?Azhaan4130&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?Azhaan4130&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -75,7 +75,7 @@ I'm always open to new opportunities and collaborations. Find me on:
   <a href="[YOUR_YOUTUBE_LINK]">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="mailto:[your-email@example.com]">
+  <a href="mailto:[azhaangameing4130@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://twitter.com/[YOUR_TWITTER_HANDLE]">
