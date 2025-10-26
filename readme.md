@@ -64,21 +64,14 @@ Here are the tools and technologies I use to craft my projects:
 I'm always open to new opportunities and collaborations. Find me on:
 
 <p align="center">
-  <a href="[YOUR_DISCORD_SERVER_INVITE]">
+  <a href="[https://discord.gg/avf6XH9fdW]">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="[YOUR_YOUTUBE_LINK]">
+  <a href="[https://youtube.com/@lazyxdevs?si=Z3qocnzSs1rr8RPw]">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <a href="mailto:[azhaangameing4130@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://twitter.com/[YOUR_TWITTER_HANDLE]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
 </p>
 
-<!-- Footer Banner -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkZzhrYjZpZ3F0dmY1emNqdHZ0eGFyMmVtM3d6Z2Q2bHl6eGpsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5hpueFgs/giphy.gif" width="100%"/>
-</div>
