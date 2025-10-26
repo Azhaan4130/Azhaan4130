@@ -17,7 +17,7 @@
 
 <!-- Profile Views -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&color=red&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Azhaan4130&label=PROFILE+VIEWS&color=red&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 <br>
@@ -31,7 +31,7 @@ I'm a multi-talented developer who loves turning ideas into reality. Whether it'
 - 🚀 I specialize in backend development with **Node.js** and **Python**.
 - 🤖 My Discord handle is **azhaan.dev.exe** — feel free to connect!
 - 💡 I'm currently exploring advanced concepts in game server optimization and interactive web design.
-- 📫 How to reach me: **[your-email@example.com]**
+- 📫 How to reach me: **[azhaangameing4130@gmail.com]**
 
 ---
 
@@ -41,7 +41,7 @@ Here are the tools and technologies I use to craft my projects:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,nodejs,html,css,js,react,mongodb,mysql,git,vscode,figma,docker,postman&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,html,css,js,react,mongodb,mysql,git&theme=dark&perline=7" />
   </a>
 </p>
 
