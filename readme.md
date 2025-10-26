@@ -52,9 +52,9 @@ Here are the tools and technologies I use to craft my projects:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?Azhaan4130&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?Azhaan4130&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azhaan4130&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?Azhaan4130&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Azhaan4130&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
