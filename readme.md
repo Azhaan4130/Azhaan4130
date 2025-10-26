@@ -1,13 +1,8 @@
 <!-- Header Banner -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkZzhrYjZpZ3F0dmY1emNqdHZ0eGFyMmVtM3d6Z2Q2bHl6eGpsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5hpueFgs/giphy.gif" width="100%"/>
-</div>
-
-<br>
 
 <!-- Avatar and Welcome Text -->
 <div align="center">
-  <img src="https://github.com/your-github-username.png" width="150px" height="150px" style="border-radius: 50%;" alt="Your Avatar">
+  <img src="https://github.com/Azhaan4130.png" width="150px" height="150px" style="border-radius: 50%;" alt="Your Avatar">
   <h1>Hey there, I'm Azhaan! 👋</h1>
 </div>
 
